@@ -1,6 +1,6 @@
 <br/>
 
-# Kalıtım Yerine Bileşim Tercih Edin
+# Kalıtım (Inheritance) Yerine Bileşim (Composition) Tercih Edin
 
 Nesne-yönelimli programlamada (OOP) bileşim (composition), daha basit nesneleri veya bileşenleri birleştirerek karmaşık nesneler oluşturmak için kalıtıma (inheritance) bir alternatiftir. Bileşim (Composition), geleneksel kalıtıma (inheritance) kıyasla kodun yeniden kullanılabilirliğini, esnekliğini ve daha modüler bir tasarımı destekler. Typescript'te, bileşimi (composition) çeşitli şekillerde kullanabilirsiniz ve her biri için örnekler vereceğim.
 
