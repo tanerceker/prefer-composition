@@ -165,7 +165,3 @@ Bu örnekte Smartphone sınıfı, bileşenleri (camera ve music player) dinamik 
 <br/>
 
 Bu örnekler, Typescript'teki bileşimin (composition), kalıtıma (inheritance) dayanmadan esnek ve yeniden kullanılabilir yazılım bileşenleri oluşturmanıza nasıl olanak sağladığını göstermektedir. Daha modüler ve bakımı kolay bir kod tabanını destekler.
-
----
-
-— Taner Çeker tarafından hazırlanmıştır.
